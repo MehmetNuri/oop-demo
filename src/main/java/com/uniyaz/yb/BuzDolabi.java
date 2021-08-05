@@ -1,6 +1,6 @@
 package com.uniyaz.yb;
 
-public class BuzDolabi extends Cihaz{
+public class BuzDolabi extends Cihaz {
 
     private int rafSayisi;
     private int kapiSayisi;

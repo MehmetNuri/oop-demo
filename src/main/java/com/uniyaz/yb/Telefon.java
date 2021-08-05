@@ -2,7 +2,7 @@ package com.uniyaz.yb;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 
-public class Telefon extends Cihaz implements ITelefon{
+public class Telefon extends Cihaz implements ITelefon {
 
     private String isletimSistemi;
     private String bataryaKapasitesi;

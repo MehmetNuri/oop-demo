@@ -2,12 +2,9 @@ package com.uniyaz.yb;
 
 /**
  * Hello world!
- *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
         Telefon t1 = new Telefon();
         t1.setAd("iPhone");
         t1.setEn("200");
@@ -26,7 +23,6 @@ public class App
         t1.setGucTuketimi("25V");
 
 
-
         BuzDolabi b1 = new BuzDolabi();
         b1.setAd("No Frost Buz Dolabı");
         b1.setMarka("Vestel");
@@ -43,8 +39,6 @@ public class App
         ti.aramaYapabilir();
         ti.inteneteGirebilir();
         ti.smsGonderebilir();
-       
-
 
 
     }
