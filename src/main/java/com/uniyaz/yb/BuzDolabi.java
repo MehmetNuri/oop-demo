@@ -8,7 +8,6 @@ public class BuzDolabi extends Cihaz {
     private String buzlukKonumu;
     private String model;
 
-
     public BuzDolabi() {
     }
 
