@@ -43,7 +43,7 @@ public class App
         ti.aramaYapabilir();
         ti.inteneteGirebilir();
         ti.smsGonderebilir();
-        System.out.println(t1.toString());
+       
 
 
 
